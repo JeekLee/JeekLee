@@ -11,5 +11,5 @@
 
 ## Status
 ![JeekLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeekLee&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeekLee&layout=compact)](https://github.com/JeekLee/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeekLee&layout=compact&theme=gruvbox)
 </div>

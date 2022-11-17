@@ -10,5 +10,6 @@
 <a href="https://velog.io/@jaymild"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a> <a href="https://soundcloud.com/jay_mild"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=flat&logo=SoundCloud&logoColor=white"/></a>
 
 # Status
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeekLee&layout=compact)](https://github.com/JeekLee/github-readme-stats) ![JeekLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeekLee&show_icons=true&theme=gruvbox)  
+![JeekLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeekLee&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeekLee&layout=compact)](https://github.com/JeekLee/github-readme-stats)   
 </div>

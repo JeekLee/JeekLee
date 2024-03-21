@@ -1,7 +1,7 @@
 <div align=center>
  
 ### Stacks
-<img src="https://img.shields.io/badge/Java-000000?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-000000?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-000000?style=flat&logo=FastAPI&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-000000?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-000000?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-000000?style=flat&logo=FastAPI&logoColor=white"/>  <img src="https://img.shields.io/badge/AWS-000000?style=flat&logo=AmazonAWS&logoColor=white"/>
  
 ### Tools
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=Pycharm&logoColor=white"/> <img src="https://img.shields.io/badge/WebStorm-000000?style=flat&logo=WebStorm&logoColor=white"/> <img src="https://img.shields.io/badge/Ableton Live-000000?style=flat&logo=AbletonLive&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-000000?style=flat&logo=Slack&logoColor=white"/> 

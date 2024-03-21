@@ -4,6 +4,7 @@
 <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-000000?style=flat&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-000000?style=flat&logo=FastAPI&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Docker-000000?style=flat&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-000000?style=flat&logo=AmazonAWS&logoColor=white"/>

@@ -1,6 +1,5 @@
 <div align=center>
  
-### Stacks
 <img src="https://img.shields.io/badge/Java-000000?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-000000?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-000000?style=flat&logo=FastAPI&logoColor=white"/>  <img src="https://img.shields.io/badge/AWS-000000?style=flat&logo=AmazonAWS&logoColor=white"/>
  
 ### Tools

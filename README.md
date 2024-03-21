@@ -19,6 +19,10 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-000000?style=flat&logo=Slack&logoColor=white"/> 
 <br>
+<img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mermaid-000000?style=flat&logo=Mermaid&logoColor=white"/>
+<img src="https://img.shields.io/badge/Latex-000000?style=flat&logo=Latex&logoColor=white"/>
+<br>
 <br>
 <a href="https://jeeklee.github.io/"><img src="https://img.shields.io/badge/Github-000000?style=flat&logo=Github&logoColor=white"/></a>
 <a href="https://velog.io/@jaymild"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
